@@ -8,12 +8,14 @@ AI Engineer with experience in:
 - Natural Language Processing (NLP)
 - Data Analysis
 
-### Tech Stack
-- Python
-- OpenCV
-- NumPy
-- Pandas
-- Jupyter Notebook
+## ⚡ Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-5A29E4?style=for-the-badge)
+
 
 ### Areas of Interest
 - Computer Vision & Image Processing
@@ -29,6 +31,11 @@ AI Engineer with experience in:
 ---
 
 📫 Feel free to explore my repositories.
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=dark)
+
 
 
 <!--
