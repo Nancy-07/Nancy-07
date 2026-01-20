@@ -34,7 +34,7 @@ AI Engineer with experience in:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nancy-07&show_icons=true&theme=dark)
 
 
 
